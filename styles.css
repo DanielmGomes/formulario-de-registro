@@ -1,0 +1,25 @@
+form {
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.container input[type=text], input[type=email] {
+	height: 30px;
+}
+
+.text-center .btn-info {
+	margin-top: 30px;
+	color: #FFF;
+	transition: .5s;
+}
+
+.text-center .btn-info:hover {
+	background-color: #FFF;
+	color: #65DAF9;
+}
+
+.text-center a {
+	text-decoration: none;
+	color: #000;
+	font-size: 18px;
+}
